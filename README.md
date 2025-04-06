@@ -11,4 +11,5 @@ Hey there! 👋 I'm a Flutter app developer 📱, passionate about crafting beau
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratyush-1327'&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @pratyush1327's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyush1327)](https://holopin.io/@pratyush1327)
+
