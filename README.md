@@ -8,8 +8,7 @@ Hey there! 👋 I'm a Flutter app developer 📱, passionate about crafting beau
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush-1327'&theme=tokyonight&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyush-1327'&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![pratyush-1327's Stats](https://github-readme-stats.vercel.app/api?username=pratyush-1327&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 [![An image of @pratyush1327's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyush1327)](https://holopin.io/@pratyush1327)
 
